@@ -1,1 +1,1 @@
-# Gaussian Texture InPainting
+# Texture InPainting by Gaussian model

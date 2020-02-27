@@ -82,8 +82,8 @@ Without further ado here are our results:
 ### Wood
 
 <p align="center">
-  <img src="img/demo_wood_big_spot_1.png" width="33%">
-  <img src="img/demo_wood_big_spot_2.png" width="15%">
+  <img src="img/demo_wood_big_spot_1.png" width="37%">
+  <img src="img/demo_wood_big_spot_2.png" width="18%">
 </p>
 
 ### Leather
@@ -105,7 +105,7 @@ Without further ado here are our results:
   <img src="img/demo_brick_with_adsn.png" width="60%">
 </p>
 
-Here we noticed that it does not work since texture image is **too structured** and does match the invariance assumptions. Indeed we failed to sample a good DSN:
+Here we noticed that it does not work since texture image contains **too much structure**. Hence it does match the invariance assumptions. Indeed we failed to sample a good DSN:
 
 <p align="center">
   <img src="img/adsn_fail.png" width="30%">

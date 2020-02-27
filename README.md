@@ -57,7 +57,14 @@ We have the theorical guarantee from Central Limit Theorem that asymptotically i
   <img src="img/paper_generated_2.png" width="15%">
 </p>
 
-Finally we want to sample H = F* + G - G* 
+Finally we want to sample H = F* + G - G* where G ~ F and G independant of F. We will sample the **kriging estimator** F* and the **kriging residual or innovation component** G - G* using the **kriging coefficients** 
+<p align="left">
+  <img src="img/kriging_eq_1.png" width="60%">
+</p>
+
+<p align="left">
+  <img src="img/kriging_eq_2.png" width="60%">
+</p>
 
 <p align="left">
   <img src="img/components_eq.png" width="60%">

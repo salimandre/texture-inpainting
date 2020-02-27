@@ -2,4 +2,10 @@
 
 We implemented the inpainting method for textures introduced in
 
-> *Microtexture inpainting through gaussian conditional simulation*, Bruno Galerne, Arthur Leclaire, Lionel Moisan. **
+> *Microtexture inpainting through gaussian conditional simulation*, Bruno Galerne, Arthur Leclaire, Lionel Moisan
+
+**Inpainting** is the task of **recovering** a missing region of an image. This region is called a **masked region**. The paper we followed propose an inpainting method to in the case of textures. Textures are supposed to be a **random gaussian field**. Authors used the work of Julesz, on the **translation invariance** of textures statistics, to model and estimate the variance of this gaussian vector. Masked region is then recovered by **conditional simulation**.
+
+## Short presentation of the method
+
+## Results

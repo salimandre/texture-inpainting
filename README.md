@@ -82,7 +82,7 @@ Without further ado here are our results:
 ### Wood
 
 <p align="center">
-  <img src="img/demo_wood_big_spot_1.png" width="37%">
+  <img src="img/demo_wood_big_spot_1.png" width="39%">
   <img src="img/demo_wood_big_spot_2.png" width="18%">
 </p>
 
@@ -111,7 +111,7 @@ Here we noticed that it does not work since texture image contains **too much st
   <img src="img/adsn_fail.png" width="30%">
 </p>
 
-Although the texture is so structure we could recover the missing region just by using the kriging estimator and we got a perfect result.
+Although the texture is so structured we could recover the missing region just by using the kriging estimator and we got a perfect result.
 
 <p align="center">
   <img src="img/demo_brick_without_adsn.png" width="30%">

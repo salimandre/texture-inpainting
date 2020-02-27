@@ -29,11 +29,11 @@ Following Julesz's theory it is assumed that statistics of order 1 and 2 are tra
 Here is an example where we compared statistics of order 1 and 2 for two images of pebbles. We can notice the similarity of pixel statistics for these two images.
 
 <p align="left">
-  <img src="img/stats_1.png" width="45%">
+  <img src="img/stats_1.png" width="55%">
 </p>
 
 <p align="left">
-  <img src="img/stats_2.png" width="45%">
+  <img src="img/stats_2.png" width="55%">
 </p>
 
 Starting from a **Discret Spot Noise** (DSN) we can generate texture image by using the model:  

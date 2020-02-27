@@ -46,7 +46,7 @@ We have the theorical guarantee from Central Limit Theorem that asymptotically i
 
 <p align="left">
   <img src="img/clt_eq.png" width="40%">
-  <img src="img/stationarity_eq.png" width="40%">
+  <img src="img/stationarity_eq.png" width="20%">
 </p>
 
 <p align="center">

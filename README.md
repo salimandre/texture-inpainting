@@ -76,3 +76,51 @@ And to compute the kriging coefficients we need to solve the **ordinary kriging 
 </p>
 
 ## Results
+
+Without further ado here are our results:
+
+### Wood
+
+<p align="center">
+  <img src="img/demo_wood_big_spot_1.png" width="15%">
+  <img src="img/demo_wood_big_spot_2.png" width="15%">
+</p>
+
+### Leather
+
+<p align="center">
+  <img src="img/kriging_eq_2.png" width="15%">
+</p>
+
+### Fur
+
+<p align="center">
+  <img src="img/demo_fur_masked.png" width="15%">
+  <img src="img/demo_fur_result.png" width="15%">
+</p>
+
+### Brick
+
+<p align="center">
+  <img src="img/demo_brick_with_adsn.png" width="15%">
+</p>
+
+<p align="center">
+  <img src="img/adsn_fail.png" width="15%">
+</p>
+
+<p align="center">
+  <img src="img/demo_brick_without_adsn.png" width="15%">
+</p>
+
+### Leaves
+
+<p align="center">
+  <img src="img/demo_leaves.png" width="15%">
+</p>
+
+### Pebbles
+
+<p align="center">
+  <img src="img/demo_pebble.png" width="15%">
+</p>

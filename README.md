@@ -12,7 +12,7 @@ We implemented the inpainting method for texture images introduced in
   <img src="img/mask.png" width="60%">
 </p>
 
-We model our pixels grid as a Markov random field with 4 connexity. **Markov property** states that:
+We model our pixels grid as a Markov random field. **Markov property** states that:
 
 <p align="center">
   <img src="img/markov_hypo_eq.png" width="50%">
@@ -24,17 +24,9 @@ We will use the **Markov blanket** around the masked region in order to infer in
   <img src="img/markov_blanket_draw.png" width="20%">
 </p>
 
-<p align="left">
-  <img src="img/components_eq.png" width="60%">
-</p>
+Following Julesz's theory it is assumed that statistics of order 1 and 2 are translation invariant in the case of texture images.
 
-<p align="left">
-  <img src="img/clt_eq.png" width="60%">
-</p>
-
-<p align="left">
-  <img src="img/dsn_eq.png" width="60%">
-</p>
+Here is an example where we compared statistics of order 1 and 2 for two images of pebbles. We can notice the similarity of pixel statistics for these two images.
 
 <p align="left">
   <img src="img/stats_1.png" width="30%">
@@ -43,6 +35,32 @@ We will use the **Markov blanket** around the masked region in order to infer in
 <p align="left">
   <img src="img/stats_2.png" width="30%">
 </p>
+
+Starting from a Discret Spot Noise (DSN) we can generate texture image by using the model:  
+
+<p align="left">
+  <img src="img/dsn_eq.png" width="60%">
+</p>
+
+We have the theorical guarantee from Central Limit Theorem that asymptotically it will follow a gaussian distribution. Hence we have the following result:
+
+<p align="left">
+  <img src="img/clt_eq.png" width="60%">
+</p>
+
+<p align="left">
+  <img src="img/paper_generated_1.png" width="20%">
+</p>
+
+<p align="right">
+  <img src="img/paper_generated_2.png" width="30%">
+</p>
+
+<p align="left">
+  <img src="img/components_eq.png" width="60%">
+</p>
+
+
 
 krigging solution of ordinary kriging system 
  

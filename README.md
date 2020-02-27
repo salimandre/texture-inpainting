@@ -39,13 +39,13 @@ Here is an example where we compared statistics of order 1 and 2 for two images 
 Starting from a Discret Spot Noise (DSN) we can generate texture image by using the model:  
 
 <p align="left">
-  <img src="img/dsn_eq.png" width="60%">
+  <img src="img/dsn_eq.png" width="40%">
 </p>
 
 We have the theorical guarantee from Central Limit Theorem that asymptotically it will follow a gaussian distribution. Hence we have the following result:
 
 <p align="left">
-  <img src="img/clt_eq.png" width="60%">
+  <img src="img/clt_eq.png" width="40%">
 </p>
 
 <p align="center">

@@ -38,7 +38,7 @@ Here is an example where we compared statistics of order 1 and 2 for two images 
 
 Starting from a Discret Spot Noise (DSN) we can generate texture image by using the model:  
 
-<p align="left">
+<p align="center">
   <img src="img/dsn_eq.png" width="40%">
 </p>
 

@@ -18,18 +18,11 @@ We model our pixels grid as a Markov random field with 4 connexity. **Markov pro
   <img src="img/markov_hypo_eq.png" width="50%">
 </p>
 
-We will use the **Markov blanket** around the masked region in order to infer inpainted region (recovered region).
+We will use the **Markov blanket** around the masked region in order to infer inpainted region (recovered region). Here is an example of a Markov blanket of one pixel in a Markov random field.
 
 <p align="center">
-      <figure> 
-          <img src="img/markov_blanket_draw.png" alt="markov blanket" />
-          <figcaption>Un cupcake</figcaption>
-      </figure>
-</p>
-
-<figure align="center">
   <img src="img/markov_blanket_draw.png" width="20%">
-</figure>
+</p>
 
 <p align="left">
   <img src="img/components_eq.png" width="60%">

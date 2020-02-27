@@ -126,5 +126,5 @@ Although the texture is so structured we could recover the missing region just b
 ### Pebbles
 
 <p align="center">
-  <img src="img/demo_pebble.png" width="60%">
+  <img src="img/demo_pebble.png" width="65%">
 </p>

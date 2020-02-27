@@ -1,6 +1,6 @@
 # Texture InPainting by Gaussian model
 
-We implemented the inpainting method for texture introduced in
+We implemented the inpainting method for texture images introduced in
 
 > *Microtexture inpainting through gaussian conditional simulation*, Bruno Galerne, Arthur Leclaire, Lionel Moisan
 

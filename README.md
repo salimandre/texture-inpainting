@@ -12,7 +12,7 @@ We implemented the inpainting method for texture images introduced in
   <img src="img/mask.png" width="60%">
 </p>
 
-We model our pixels grid as a Markov random field with 4 connexity. Markov property states that:
+We model our pixels grid as a Markov random field with 4 connexity. **Markov property** states that:
 
 <p align="center">
   <img src="img/markov_hypo_eq.png" width="50%">

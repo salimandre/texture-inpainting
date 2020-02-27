@@ -49,7 +49,7 @@ We have the theorical guarantee from Central Limit Theorem that asymptotically i
 </p>
 
 <p align="center">
-  <img src="img/paper_generated_1.png" width="30%">
+  <img src="img/paper_generated_1.png" width="34%">
   <img src="img/paper_generated_2.png" width="15%">
 </p>
 

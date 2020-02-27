@@ -53,7 +53,7 @@ We have the theorical guarantee from Central Limit Theorem that asymptotically i
 
 <p align="center">
   <img src="img/paper_generated_1.png" width="32%">
-  <img src="img/paper_generated_2.png" width="15%">
+        <img src="img/paper_generated_2.png" width="15%">
 </p>
 
 <p align="left">

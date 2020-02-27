@@ -82,14 +82,14 @@ Without further ado here are our results:
 ### Wood
 
 <p align="center">
-  <img src="img/demo_wood_big_spot_1.png" width="30%">
+  <img src="img/demo_wood_big_spot_1.png" width="32%">
   <img src="img/demo_wood_big_spot_2.png" width="15%">
 </p>
 
 ### Leather
 
 <p align="center">
-  <img src="img/kriging_eq_2.png" width="30%">
+  <img src="img/demo_leather.png" width="30%">
 </p>
 
 ### Fur

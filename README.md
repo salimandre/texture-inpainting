@@ -105,9 +105,13 @@ Without further ado here are our results:
   <img src="img/demo_brick_with_adsn.png" width="60%">
 </p>
 
+Here we noticed that it does not work since texture image is **too structured** and does match the invariance assumptions. Indeed we failed to sample a good DSN:
+
 <p align="center">
   <img src="img/adsn_fail.png" width="30%">
 </p>
+
+Although the texture is so structure we could recover the missing region just by using the kriging estimator and we got a perfect result.
 
 <p align="center">
   <img src="img/demo_brick_without_adsn.png" width="30%">

@@ -15,7 +15,7 @@ We implemented the inpainting method for texture images introduced in
 We model our pixels grid as a Markov random field with 4 connexity. Markov property states that:
 
 <p align="center">
-  <img src="img/markov_hypo_eq.png" width="60%">
+  <img src="img/markov_hypo_eq.png" width="50%">
 </p>
 
 We will use the **Markov blanket** around the masked region in order to infer inpainted region (recovered region).

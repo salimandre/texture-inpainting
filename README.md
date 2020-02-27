@@ -36,7 +36,7 @@ Here is an example where we compared statistics of order 1 and 2 for two images 
   <img src="img/stats_2.png" width="30%">
 </p>
 
-Starting from a Discret Spot Noise (DSN) we can generate texture image by using the model:  
+Starting from a **Discret Spot Noise** (DSN) we can generate texture image by using the model:  
 
 <p align="center">
   <img src="img/dsn_eq.png" width="40%">
@@ -46,16 +46,18 @@ We have the theorical guarantee from Central Limit Theorem that asymptotically i
 
 <p align="left">
   <img src="img/clt_eq.png" width="40%">
-  <img src="img/stationarity_eq.png" width="7%">
 </p>
-<p align="left">
-  <img src="img/stationarity_eq.png" width="7%">
-</p>
+ 
+ Therefore we notice that we obtain a **stationary** gaussian process.  
+ 
+ In the following we used this model to sample a texture image of paper by consecutive translation of spot noise (small patch from texture image).
 
 <p align="center">
   <img src="img/paper_generated_1.png" width="32%">
-        <img src="img/paper_generated_2.png" width="15%">
+  <img src="img/paper_generated_2.png" width="15%">
 </p>
+
+Finally we want to sample H = F* + G - G* 
 
 <p align="left">
   <img src="img/components_eq.png" width="60%">

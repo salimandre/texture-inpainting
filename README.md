@@ -66,11 +66,13 @@ Finally we want to sample H = F* + G - G* where G ~ F and G independant of F. We
 And to compute the kriging coefficients we need to solve the ordinary kriging system 
 
 <p align="left">
-  <img src="img/kriging_eq_1.png" width="60%">
-</p>
-
-<p align="left">
-  <img src="img/kriging_eq_2.png" width="60%">
+  <img src="img/kriging_eq_2.png" width="20%">
 </p>
  
+ whereL:
+ 
+ <p align="left">
+  <img src="img/kriging_eq_1.png" width="20%">
+</p>
+
 ## Results

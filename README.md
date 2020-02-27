@@ -12,6 +12,10 @@ We implemented the inpainting method for texture introduced in
   <img src="img/mask.png" width="60%">
 </p>
 
+<figure>
+  <img src="img/mask.png" width="60%">
+</figure>
+
 krigging solution of ordinary kriging system 
  
 ## Results

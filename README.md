@@ -14,6 +14,7 @@ We implemented the inpainting method for texture introduced in
 
 <figure>
   <img src="img/mask.png" width="60%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </figure>
 
 krigging solution of ordinary kriging system 

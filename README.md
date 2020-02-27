@@ -25,7 +25,11 @@ We implemented the inpainting method for texture introduced in
 </p>
 
 <p align="left">
-  <img src="img/markov_blanket_eq.png" width="60%">
+  <img src="img/markov_hypo_eq.png" width="60%">
+</p>
+
+<p align="left">
+  <img src="img/markov_blanket_draw.png" width="60%">
 </p>
 
 krigging solution of ordinary kriging system 

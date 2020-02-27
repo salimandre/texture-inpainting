@@ -12,10 +12,21 @@ We implemented the inpainting method for texture introduced in
   <img src="img/mask.png" width="60%">
 </p>
 
-<figure>
-  <img src="img/mask.png" width="60%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
+<p align="left">
+  <img src="img/components_eq.png" width="60%">
+</p>
+
+<p align="left">
+  <img src="img/clt_eq.png" width="60%">
+</p>
+
+<p align="left">
+  <img src="img/dsn_eq.png" width="60%">
+</p>
+
+<p align="left">
+  <img src="img/markov_blanket_eq.png" width="60%">
+</p>
 
 krigging solution of ordinary kriging system 
  

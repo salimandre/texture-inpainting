@@ -48,11 +48,8 @@ We have the theorical guarantee from Central Limit Theorem that asymptotically i
   <img src="img/clt_eq.png" width="60%">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="img/paper_generated_1.png" width="20%">
-</p>
-
-<p align="right">
   <img src="img/paper_generated_2.png" width="30%">
 </p>
 

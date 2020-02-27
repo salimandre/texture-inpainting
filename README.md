@@ -119,6 +119,8 @@ Although the texture is so structured we could recover the missing region just b
 
 ### Leaves
 
+Obvious case of failure. Texture image contrains a highly complex structure. We are out ouf our framework. 
+
 <p align="center">
   <img src="img/demo_leaves.png" width="60%">
 </p>

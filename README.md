@@ -8,4 +8,6 @@ We implemented the inpainting method for textures introduced in
 
 ## Short presentation of the method
 
+krigging solution of ordinary kriging system 
+ 
 ## Results

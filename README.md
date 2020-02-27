@@ -82,14 +82,14 @@ Without further ado here are our results:
 ### Wood
 
 <p align="center">
-  <img src="img/demo_wood_big_spot_1.png" width="32%">
+  <img src="img/demo_wood_big_spot_1.png" width="33%">
   <img src="img/demo_wood_big_spot_2.png" width="15%">
 </p>
 
 ### Leather
 
 <p align="center">
-  <img src="img/demo_leather.png" width="30%">
+  <img src="img/demo_leather.png" width="60%">
 </p>
 
 ### Fur
@@ -102,7 +102,7 @@ Without further ado here are our results:
 ### Brick
 
 <p align="center">
-  <img src="img/demo_brick_with_adsn.png" width="30%">
+  <img src="img/demo_brick_with_adsn.png" width="60%">
 </p>
 
 <p align="center">
